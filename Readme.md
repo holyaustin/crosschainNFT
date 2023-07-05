@@ -1,0 +1,12 @@
+# Cross-Chain NFT Contract on Router EVM
+
+Polygon XRC1155: 0xD9169b247840110287Aa437fde0A17C1b4c3013d
+0x9F3b1E2770d77236199Ed27b1B98097c09A18C68
+
+Router Address:router14vhqdfwa9a63muxj6fzg0zxce0gx4s2f8p7dwt
+EVM Address:0xab2e06a5dd2f751df0d2d2448788d8cbd06ac149
+
+https://bafyreia57eayw5vegnavgtinxnimiizb5dev5ncdb63ognndjltwyfrpxy.ipfs.nftstorage.link/metadata.json
+
+Avalanche Fuji C Testnet: 0x29BC79904dAc697e0BF70E65ADE412d5f68bD980
+0x9b20B09395d0B5c4BfbA455B9B9d1f07eBD45A9F
